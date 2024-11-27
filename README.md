@@ -14,4 +14,4 @@ yup
 anyway
 
 bye bye
-\(￣︶￣*\))
+╚(•⌂•)╝
