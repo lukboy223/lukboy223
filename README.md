@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello
 
-<!--
-**lukboy223/lukboy223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile
 
-Here are some ideas to get you started:
+There is all kinds of things in here.
+Like random projects I have made and school projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily code php, html, css(scss) and js
+So code websties
+
+
+
+yup
+anyway
+
+bye bye
+\(￣︶￣*\))
